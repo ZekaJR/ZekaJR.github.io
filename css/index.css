@@ -20,7 +20,9 @@
 .header a.logo {
     font-size: 25px;
     font-weight: bold;
-    width: 500px;
+    margin-left: 20px;
+    border: 1px solid black;
+    width: 100px
 }
 
 .header a.active {
