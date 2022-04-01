@@ -58,5 +58,11 @@
 }
 
 .footer a {
-    padding: 0 20px;
+    padding: 0 30px;
+    text-decoration: none;
+}
+
+.footer i {
+    padding: 10px 10px;
+    color: dodgerblue;
 }
